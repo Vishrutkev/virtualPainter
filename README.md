@@ -4,16 +4,22 @@ This is a Python project that utilizes the OpenCV, MediaPipe, and NumPy librarie
 
 ## Features
 Real-time hand tracking: The application uses the MediaPipe library to detect and track the user's hand in real-time.
+
 Drawing with hand gestures: Users can draw on the video screen by moving their index finger in front of the webcam.
+
 Color selection: Users can choose different colors for drawing using index and middle finger together hovering to the color wanted.
+
 Eraser functionality: The application provides an eraser option to erase everything on the screen.
 
 ## Prerequisites
 To run this project, you need to have the following installed on your system:
 
 Python (version 3.6 or later)
+
 OpenCV (Python library for computer vision)
+
 MediaPipe (Python library for building multimodal applications)
+
 NumPy (Python library for numerical operations)
 
 
@@ -22,6 +28,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 The project was inspired by various computer vision and gesture recognition techniques.
+
 The implementation utilizes the OpenCV, MediaPipe, and NumPy libraries.
 
 
