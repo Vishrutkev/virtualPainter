@@ -35,6 +35,7 @@ The implementation utilizes the OpenCV, MediaPipe, and NumPy libraries.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+![Screenshot 2023-06-15 at 11 24 56 PM (3)](https://github.com/Vishrutkev/virtualPainter/assets/98125025/5ac2f81b-cea5-4ba9-a764-72703f47a26b)
 
 
 # Happy virtual painting!
