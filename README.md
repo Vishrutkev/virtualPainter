@@ -7,7 +7,7 @@ Real-time hand tracking: The application uses the MediaPipe library to detect an
 
 Drawing with hand gestures: Users can draw on the video screen by moving their index finger in front of the webcam.
 
-<img width="1512" alt="Drawing with index finger" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/0c433312-b88c-40be-b84d-aad3d39079e2">
+<img width="1271" alt="Drawing with index finger" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/4c9421cf-d5b9-42fd-81b5-c8736091b7f7">
 
 Color selection: Users can choose different colors for drawing using index and middle finger together hovering to the color wanted.
 
@@ -17,6 +17,7 @@ Eraser functionality: The application provides an eraser option to erase everyth
 
 <img width="1278" alt="paintingVirtually" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/ebbe6eca-2ef3-4574-9275-8841f5da0721">
 
+## Hand Tracking
 
 <img width="1269" alt="handTracking and Painting" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/b9d28d86-69c2-4603-b098-4d3a7e226895">
 
