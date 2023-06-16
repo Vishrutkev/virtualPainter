@@ -7,9 +7,19 @@ Real-time hand tracking: The application uses the MediaPipe library to detect an
 
 Drawing with hand gestures: Users can draw on the video screen by moving their index finger in front of the webcam.
 
+<img width="1512" alt="Drawing with index finger" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/0c433312-b88c-40be-b84d-aad3d39079e2">
+
 Color selection: Users can choose different colors for drawing using index and middle finger together hovering to the color wanted.
 
+<img width="1277" alt="selecting Color" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/7735ad41-0118-4c00-bdca-a07c57176f59">
+
 Eraser functionality: The application provides an eraser option to erase everything on the screen.
+
+<img width="1278" alt="paintingVirtually" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/ebbe6eca-2ef3-4574-9275-8841f5da0721">
+
+
+<img width="1269" alt="handTracking and Painting" src="https://github.com/Vishrutkev/virtualPainter/assets/98125025/b9d28d86-69c2-4603-b098-4d3a7e226895">
+
 
 ## Prerequisites
 To run this project, you need to have the following installed on your system:
@@ -34,8 +44,6 @@ The implementation utilizes the OpenCV, MediaPipe, and NumPy libraries.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-![Screenshot 2023-06-15 at 11 24 56 PM (3)](https://github.com/Vishrutkev/virtualPainter/assets/98125025/5ac2f81b-cea5-4ba9-a764-72703f47a26b)
 
 
 # Happy virtual painting!
